@@ -342,7 +342,7 @@ body {
   height: calc(100vh - 7em);
   background-color: #FBFAFF;
   border-radius: 2.4em;
-  background-image: url("/website/img/bg1.png");
+  background-image: url("./img/bg1.png");
   background-size: cover;
   position: relative;
   margin: auto;
@@ -534,7 +534,7 @@ body {
 
 .section4 {
   width: 100%;
-  background-image: url("/website/img/bg2.png"), linear-gradient(180deg, #FBFAFF 29.73%, #FFFFFF 100%);
+  background-image: url("./img/bg2.png"), linear-gradient(180deg, #FBFAFF 29.73%, #FFFFFF 100%);
   border-radius: 20.5px 0px 0px 0px;
   background-size: cover;
   margin-top: 10em;
@@ -655,7 +655,7 @@ body {
 
 .section5 {
   width: 100%;
-  background-image: url("/website/img/bg3.png"), linear-gradient(180deg, #FBFAFF 29.73%, #FFFFFF 100%);
+  background-image: url("./img/bg3.png"), linear-gradient(180deg, #FBFAFF 29.73%, #FFFFFF 100%);
   border-radius: 20.5em 0 0 0;
   background-size: cover;
   margin-top: 10em;
@@ -782,7 +782,7 @@ body {
 }
 .section6__image {
   width: 49%;
-  background-image: url("/website/img/bg4.png");
+  background-image: url("./img/bg4.png");
   background-size: cover;
 }
 @media (max-width: 675px) {
@@ -912,7 +912,7 @@ body {
 
 .section8 {
   width: 100%;
-  background-image: url("/website/img/bg5.png");
+  background-image: url("./img/bg5.png");
   background-size: cover;
   background-color: #23155B;
   border-radius: 13.5em 0 0;
